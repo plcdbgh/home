@@ -22,7 +22,7 @@
   {
     "icon": "LaptopCode",
     "name": "服务器监控",
-    "link": "http://nz.mfdd.eu.org"
+    "link": "http://nz.mfdd.eu.org:8080"
   },
   {
     "icon": "Book",
