@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://www.成.eu.org/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "ios软件安装",
+    "link": "https://alist.fldd.eu.org"
   },
   {
     "icon": "CompactDisc",
@@ -25,13 +25,8 @@
     "link": "https://web.imsyy.top/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "http://nz.mfdd.eu.org/"
   }
 ]
